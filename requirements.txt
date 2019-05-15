@@ -1,0 +1,5 @@
+opencv-python==4.1.0.25
+av==6.2.0
+tqdm==4.32.1
+pandas==0.24.2
+numpy==1.16.3
