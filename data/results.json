@@ -1,0 +1,2912 @@
+{
+  "1": {
+    "19": [
+      {
+        "got_scene_time": 1530.278,
+        "yt_scene_time": 16.016
+      },
+      {
+        "got_scene_time": 1535.408,
+        "yt_scene_time": 21.354666666666667
+      },
+      {
+        "got_scene_time": 3088.625,
+        "yt_scene_time": 25.5255
+      },
+      {
+        "got_scene_time": 1119.326,
+        "yt_scene_time": 45.87916666666667
+      },
+      {
+        "got_scene_time": 1572.611,
+        "yt_scene_time": 48.673625
+      },
+      {
+        "got_scene_time": 1575.239,
+        "yt_scene_time": 51.342958333333335
+      },
+      {
+        "got_scene_time": 1580.536,
+        "yt_scene_time": 56.723333333333336
+      },
+      {
+        "got_scene_time": 1635.424,
+        "yt_scene_time": 75.700625
+      },
+      {
+        "got_scene_time": 1633.506,
+        "yt_scene_time": 77.74433333333333
+      },
+      {
+        "got_scene_time": 1642.932,
+        "yt_scene_time": 83.12470833333333
+      },
+      {
+        "got_scene_time": 1649.772,
+        "yt_scene_time": 88.5885
+      },
+      {
+        "got_scene_time": 1650.314,
+        "yt_scene_time": 91.00758333333333
+      },
+      {
+        "got_scene_time": 1655.194,
+        "yt_scene_time": 95.220125
+      },
+      {
+        "got_scene_time": 1659.24,
+        "yt_scene_time": 99.43266666666666
+      },
+      {
+        "got_scene_time": 1664.662,
+        "yt_scene_time": 104.6045
+      },
+      {
+        "got_scene_time": 1670.042,
+        "yt_scene_time": 110.06829166666667
+      },
+      {
+        "got_scene_time": 1673.629,
+        "yt_scene_time": 113.65520833333333
+      },
+      {
+        "got_scene_time": 1675.13,
+        "yt_scene_time": 115.15670833333333
+      },
+      {
+        "got_scene_time": 1303.718,
+        "yt_scene_time": 120.28683333333333
+      },
+      {
+        "got_scene_time": 1680.594,
+        "yt_scene_time": 120.6205
+      },
+      {
+        "got_scene_time": 1692.439,
+        "yt_scene_time": 125.95916666666666
+      },
+      {
+        "got_scene_time": 1707.913,
+        "yt_scene_time": 142.267125
+      },
+      {
+        "got_scene_time": 1710.833,
+        "yt_scene_time": 145.47866666666667
+      },
+      {
+        "got_scene_time": 1716.714,
+        "yt_scene_time": 150.85904166666666
+      },
+      {
+        "got_scene_time": 1722.761,
+        "yt_scene_time": 156.32283333333334
+      },
+      {
+        "got_scene_time": 1726.932,
+        "yt_scene_time": 161.49466666666666
+      },
+      {
+        "got_scene_time": 1732.062,
+        "yt_scene_time": 166.24941666666666
+      },
+      {
+        "got_scene_time": 1736.275,
+        "yt_scene_time": 170.62879166666667
+      },
+      {
+        "got_scene_time": 1739.194,
+        "yt_scene_time": 173.798625
+      },
+      {
+        "got_scene_time": 1741.655,
+        "yt_scene_time": 176.09258333333332
+      },
+      {
+        "got_scene_time": 1745.159,
+        "yt_scene_time": 179.804625
+      },
+      {
+        "got_scene_time": 1747.077,
+        "yt_scene_time": 181.51466666666667
+      },
+      {
+        "got_scene_time": 1749.663,
+        "yt_scene_time": 184.14229166666667
+      },
+      {
+        "got_scene_time": 1752.207,
+        "yt_scene_time": 186.85333333333332
+      },
+      {
+        "got_scene_time": 1756.545,
+        "yt_scene_time": 191.02416666666667
+      },
+      {
+        "got_scene_time": 1950.113,
+        "yt_scene_time": 204.78791666666666
+      },
+      {
+        "got_scene_time": 1952.199,
+        "yt_scene_time": 206.206
+      },
+      {
+        "got_scene_time": 710.042,
+        "yt_scene_time": 211.54466666666667
+      },
+      {
+        "got_scene_time": 1961.917,
+        "yt_scene_time": 215.92404166666665
+      },
+      {
+        "got_scene_time": 1963.085,
+        "yt_scene_time": 216.88333333333333
+      },
+      {
+        "got_scene_time": 1978.85,
+        "yt_scene_time": 232.89933333333335
+      },
+      {
+        "got_scene_time": 1980.018,
+        "yt_scene_time": 234.06716666666668
+      },
+      {
+        "got_scene_time": 1984.272,
+        "yt_scene_time": 238.238
+      },
+      {
+        "got_scene_time": 1989.611,
+        "yt_scene_time": 243.57666666666665
+      },
+      {
+        "got_scene_time": 1992.155,
+        "yt_scene_time": 246.246
+      },
+      {
+        "got_scene_time": 1661.617,
+        "yt_scene_time": 248.91533333333334
+      },
+      {
+        "got_scene_time": 496.12,
+        "yt_scene_time": 253.46154166666668
+      },
+      {
+        "got_scene_time": 1829.451,
+        "yt_scene_time": 258.92533333333336
+      },
+      {
+        "got_scene_time": 2009.756,
+        "yt_scene_time": 263.55495833333333
+      },
+      {
+        "got_scene_time": 414.581,
+        "yt_scene_time": 266.7665
+      },
+      {
+        "got_scene_time": 2014.886,
+        "yt_scene_time": 268.93533333333335
+      },
+      {
+        "got_scene_time": 38.33,
+        "yt_scene_time": 274.0654583333333
+      },
+      {
+        "got_scene_time": 2020.6,
+        "yt_scene_time": 274.274
+      },
+      {
+        "got_scene_time": 2024.437,
+        "yt_scene_time": 278.3614166666667
+      },
+      {
+        "got_scene_time": 2028.859,
+        "yt_scene_time": 282.8659166666667
+      },
+      {
+        "got_scene_time": 2033.947,
+        "yt_scene_time": 287.99604166666666
+      },
+      {
+        "got_scene_time": 2039.452,
+        "yt_scene_time": 293.45983333333334
+      },
+      {
+        "got_scene_time": 2044.916,
+        "yt_scene_time": 298.923625
+      },
+      {
+        "got_scene_time": 2046.877,
+        "yt_scene_time": 300.88391666666666
+      },
+      {
+        "got_scene_time": 2049.296,
+        "yt_scene_time": 303.303
+      },
+      {
+        "got_scene_time": 1116.948,
+        "yt_scene_time": 307.89091666666667
+      },
+      {
+        "got_scene_time": 2058.972,
+        "yt_scene_time": 312.97933333333333
+      },
+      {
+        "got_scene_time": 2060.432,
+        "yt_scene_time": 314.439125
+      },
+      {
+        "got_scene_time": 2064.311,
+        "yt_scene_time": 318.318
+      },
+      {
+        "got_scene_time": 2069.649,
+        "yt_scene_time": 323.6566666666667
+      },
+      {
+        "got_scene_time": 2090.837,
+        "yt_scene_time": 344.8445
+      },
+      {
+        "got_scene_time": 2094.841,
+        "yt_scene_time": 348.8485
+      },
+      {
+        "got_scene_time": 2100.305,
+        "yt_scene_time": 354.3122916666667
+      },
+      {
+        "got_scene_time": 2105.644,
+        "yt_scene_time": 359.60925
+      },
+      {
+        "got_scene_time": 2110.774,
+        "yt_scene_time": 364.78108333333336
+      },
+      {
+        "got_scene_time": 2116.237,
+        "yt_scene_time": 370.244875
+      },
+      {
+        "got_scene_time": 2119.741,
+        "yt_scene_time": 373.748375
+      },
+      {
+        "got_scene_time": 2121.701,
+        "yt_scene_time": 375.70866666666666
+      },
+      {
+        "got_scene_time": 2126.289,
+        "yt_scene_time": 380.29658333333333
+      },
+      {
+        "got_scene_time": 2131.711,
+        "yt_scene_time": 385.71866666666665
+      },
+      {
+        "got_scene_time": 2137.092,
+        "yt_scene_time": 391.05733333333336
+      },
+      {
+        "got_scene_time": 2155.777,
+        "yt_scene_time": 400.4
+      },
+      {
+        "got_scene_time": 2160.824,
+        "yt_scene_time": 405.7386666666667
+      },
+      {
+        "got_scene_time": 2162.909,
+        "yt_scene_time": 407.3235833333333
+      },
+      {
+        "got_scene_time": 2166.746,
+        "yt_scene_time": 411.07733333333334
+      },
+      {
+        "got_scene_time": 2171.918,
+        "yt_scene_time": 416.16575
+      },
+      {
+        "got_scene_time": 2176.798,
+        "yt_scene_time": 421.17075
+      },
+      {
+        "got_scene_time": 2182.011,
+        "yt_scene_time": 426.426
+      },
+      {
+        "got_scene_time": 2187.35,
+        "yt_scene_time": 431.76466666666664
+      },
+      {
+        "got_scene_time": 2192.73,
+        "yt_scene_time": 437.10333333333335
+      },
+      {
+        "got_scene_time": 2197.944,
+        "yt_scene_time": 442.442
+      },
+      {
+        "got_scene_time": 2235.732,
+        "yt_scene_time": 448.53141666666664
+      },
+      {
+        "got_scene_time": 2238.818,
+        "yt_scene_time": 451.7846666666667
+      },
+      {
+        "got_scene_time": 2241.029,
+        "yt_scene_time": 454.078625
+      },
+      {
+        "got_scene_time": 2243.114,
+        "yt_scene_time": 457.081625
+      },
+      {
+        "got_scene_time": 2249.078,
+        "yt_scene_time": 459.9177916666667
+      },
+      {
+        "got_scene_time": 2248.161,
+        "yt_scene_time": 462.462
+      },
+      {
+        "got_scene_time": 2252.04,
+        "yt_scene_time": 466.2574583333333
+      },
+      {
+        "got_scene_time": 2253.917,
+        "yt_scene_time": 466.79966666666667
+      },
+      {
+        "got_scene_time": 2259.339,
+        "yt_scene_time": 472.26345833333335
+      },
+      {
+        "got_scene_time": 2264.51,
+        "yt_scene_time": 477.72725
+      },
+      {
+        "got_scene_time": 2283.738,
+        "yt_scene_time": 482.1483333333333
+      },
+      {
+        "got_scene_time": 2287.283,
+        "yt_scene_time": 484.77595833333334
+      },
+      {
+        "got_scene_time": 2289.577,
+        "yt_scene_time": 487.1533333333333
+      },
+      {
+        "got_scene_time": 2317.855,
+        "yt_scene_time": 515.515
+      },
+      {
+        "got_scene_time": 2319.565,
+        "yt_scene_time": 517.0165
+      },
+      {
+        "got_scene_time": 2323.069,
+        "yt_scene_time": 522.4802916666666
+      },
+      {
+        "got_scene_time": 2330.368,
+        "yt_scene_time": 527.8606666666667
+      },
+      {
+        "got_scene_time": 2335.707,
+        "yt_scene_time": 533.1993333333334
+      },
+      {
+        "got_scene_time": 2341.003,
+        "yt_scene_time": 538.6214166666666
+      },
+      {
+        "got_scene_time": 2345.174,
+        "yt_scene_time": 542.7505416666667
+      },
+      {
+        "got_scene_time": 2346.175,
+        "yt_scene_time": 543.7515416666666
+      },
+      {
+        "got_scene_time": 2479.6,
+        "yt_scene_time": 548.5062916666667
+      },
+      {
+        "got_scene_time": 2483.062,
+        "yt_scene_time": 552.1349166666666
+      },
+      {
+        "got_scene_time": 2484.689,
+        "yt_scene_time": 553.8866666666667
+      },
+      {
+        "got_scene_time": 2487.483,
+        "yt_scene_time": 556.430875
+      },
+      {
+        "got_scene_time": 2489.777,
+        "yt_scene_time": 558.933375
+      },
+      {
+        "got_scene_time": 2493.906,
+        "yt_scene_time": 563.3544583333334
+      },
+      {
+        "got_scene_time": 2495.199,
+        "yt_scene_time": 563.8549583333333
+      },
+      {
+        "got_scene_time": 2497.076,
+        "yt_scene_time": 566.3991666666667
+      },
+      {
+        "got_scene_time": 2499.495,
+        "yt_scene_time": 569.2353333333333
+      },
+      {
+        "got_scene_time": 2505.751,
+        "yt_scene_time": 574.574
+      },
+      {
+        "got_scene_time": 2530.86,
+        "yt_scene_time": 579.9126666666667
+      },
+      {
+        "got_scene_time": 2516.679,
+        "yt_scene_time": 585.2513333333334
+      },
+      {
+        "got_scene_time": 2520.808,
+        "yt_scene_time": 590.59
+      },
+      {
+        "got_scene_time": 2526.814,
+        "yt_scene_time": 595.9286666666667
+      },
+      {
+        "got_scene_time": 2522.268,
+        "yt_scene_time": 598.598
+      },
+      {
+        "got_scene_time": 2531.902,
+        "yt_scene_time": 600.0995
+      },
+      {
+        "got_scene_time": 2536.782,
+        "yt_scene_time": 603.603
+      },
+      {
+        "got_scene_time": 2535.114,
+        "yt_scene_time": 605.2713333333334
+      },
+      {
+        "got_scene_time": 2534.447,
+        "yt_scene_time": 610.61
+      },
+      {
+        "got_scene_time": 2546.584,
+        "yt_scene_time": 615.9486666666667
+      },
+      {
+        "got_scene_time": 2549.92,
+        "yt_scene_time": 621.2873333333333
+      },
+      {
+        "got_scene_time": 2556.719,
+        "yt_scene_time": 626.626
+      },
+      {
+        "got_scene_time": 2560.431,
+        "yt_scene_time": 629.003375
+      },
+      {
+        "got_scene_time": 2529.567,
+        "yt_scene_time": 631.9646666666666
+      },
+      {
+        "got_scene_time": 2565.269,
+        "yt_scene_time": 637.3033333333333
+      },
+      {
+        "got_scene_time": 2530.025,
+        "yt_scene_time": 642.642
+      },
+      {
+        "got_scene_time": 2580.618,
+        "yt_scene_time": 646.5625833333334
+      },
+      {
+        "got_scene_time": 2580.618,
+        "yt_scene_time": 648.0640833333333
+      },
+      {
+        "got_scene_time": 2583.245,
+        "yt_scene_time": 653.2359166666666
+      },
+      {
+        "got_scene_time": 2585.581,
+        "yt_scene_time": 658.658
+      },
+      {
+        "got_scene_time": 2594.632,
+        "yt_scene_time": 663.9966666666667
+      },
+      {
+        "got_scene_time": 2595.966,
+        "yt_scene_time": 665.790125
+      },
+      {
+        "got_scene_time": 2580.618,
+        "yt_scene_time": 669.3353333333333
+      },
+      {
+        "got_scene_time": 2604.225,
+        "yt_scene_time": 673.42275
+      },
+      {
+        "got_scene_time": 2605.017,
+        "yt_scene_time": 673.92325
+      },
+      {
+        "got_scene_time": 2610.147,
+        "yt_scene_time": 679.3453333333333
+      },
+      {
+        "got_scene_time": 1285.7,
+        "yt_scene_time": 695.3613333333333
+      }
+    ],
+    "30": [
+      {
+        "got_scene_time": 246.621,
+        "yt_scene_time": 4.333333333333333
+      },
+      {
+        "got_scene_time": 271.438,
+        "yt_scene_time": 26.666666666666668
+      },
+      {
+        "got_scene_time": 836.001,
+        "yt_scene_time": 53.333333333333336
+      },
+      {
+        "got_scene_time": 1259.09,
+        "yt_scene_time": 121.06666666666666
+      },
+      {
+        "got_scene_time": 137.679,
+        "yt_scene_time": 126.4
+      },
+      {
+        "got_scene_time": 2983.562,
+        "yt_scene_time": 131.73333333333332
+      },
+      {
+        "got_scene_time": 136.72,
+        "yt_scene_time": 137.06666666666666
+      },
+      {
+        "got_scene_time": 142.058,
+        "yt_scene_time": 142.4
+      },
+      {
+        "got_scene_time": 1123.83,
+        "yt_scene_time": 147.73333333333332
+      },
+      {
+        "got_scene_time": 172.38,
+        "yt_scene_time": 153.06666666666666
+      },
+      {
+        "got_scene_time": 2068.273,
+        "yt_scene_time": 158.4
+      },
+      {
+        "got_scene_time": 544.585,
+        "yt_scene_time": 163.73333333333332
+      },
+      {
+        "got_scene_time": 2662.366,
+        "yt_scene_time": 169.06666666666666
+      },
+      {
+        "got_scene_time": 154.613,
+        "yt_scene_time": 174.4
+      },
+      {
+        "got_scene_time": 133.216,
+        "yt_scene_time": 179.73333333333332
+      },
+      {
+        "got_scene_time": 727.059,
+        "yt_scene_time": 185.06666666666666
+      },
+      {
+        "got_scene_time": 133.216,
+        "yt_scene_time": 190.4
+      },
+      {
+        "got_scene_time": 2630.167,
+        "yt_scene_time": 195.73333333333332
+      },
+      {
+        "got_scene_time": 217.926,
+        "yt_scene_time": 201.06666666666666
+      },
+      {
+        "got_scene_time": 3336.455,
+        "yt_scene_time": 211.73333333333332
+      },
+      {
+        "got_scene_time": 233.275,
+        "yt_scene_time": 217.06666666666666
+      },
+      {
+        "got_scene_time": 1123.83,
+        "yt_scene_time": 221.76666666666668
+      },
+      {
+        "got_scene_time": 210.126,
+        "yt_scene_time": 227.2
+      },
+      {
+        "got_scene_time": 265.14,
+        "yt_scene_time": 232.53333333333333
+      },
+      {
+        "got_scene_time": 2955.784,
+        "yt_scene_time": 243.2
+      },
+      {
+        "got_scene_time": 297.38,
+        "yt_scene_time": 253.86666666666667
+      },
+      {
+        "got_scene_time": 311.478,
+        "yt_scene_time": 264.53333333333336
+      },
+      {
+        "got_scene_time": 386.302,
+        "yt_scene_time": 269.8666666666667
+      },
+      {
+        "got_scene_time": 337.879,
+        "yt_scene_time": 274.4
+      },
+      {
+        "got_scene_time": 340.048,
+        "yt_scene_time": 279.46666666666664
+      },
+      {
+        "got_scene_time": 347.055,
+        "yt_scene_time": 284.8
+      },
+      {
+        "got_scene_time": 365.156,
+        "yt_scene_time": 290.1333333333333
+      },
+      {
+        "got_scene_time": 370.62,
+        "yt_scene_time": 295.46666666666664
+      },
+      {
+        "got_scene_time": 436.227,
+        "yt_scene_time": 309.93333333333334
+      },
+      {
+        "got_scene_time": 441.816,
+        "yt_scene_time": 315.8333333333333
+      },
+      {
+        "got_scene_time": 447.405,
+        "yt_scene_time": 321.06666666666666
+      },
+      {
+        "got_scene_time": 3330.616,
+        "yt_scene_time": 326.4
+      },
+      {
+        "got_scene_time": 461.502,
+        "yt_scene_time": 331.73333333333335
+      },
+      {
+        "got_scene_time": 466.549,
+        "yt_scene_time": 337.06666666666666
+      },
+      {
+        "got_scene_time": 495.661,
+        "yt_scene_time": 347.73333333333335
+      },
+      {
+        "got_scene_time": 514.347,
+        "yt_scene_time": 353.06666666666666
+      },
+      {
+        "got_scene_time": 520.645,
+        "yt_scene_time": 358.4
+      },
+      {
+        "got_scene_time": 544.794,
+        "yt_scene_time": 363.3
+      },
+      {
+        "got_scene_time": 563.187,
+        "yt_scene_time": 368.53333333333336
+      },
+      {
+        "got_scene_time": 566.774,
+        "yt_scene_time": 373.8666666666667
+      },
+      {
+        "got_scene_time": 580.496,
+        "yt_scene_time": 383.43333333333334
+      },
+      {
+        "got_scene_time": 661.827,
+        "yt_scene_time": 394.0
+      },
+      {
+        "got_scene_time": 271.438,
+        "yt_scene_time": 399.46666666666664
+      },
+      {
+        "got_scene_time": 690.397,
+        "yt_scene_time": 404.26666666666665
+      },
+      {
+        "got_scene_time": 690.356,
+        "yt_scene_time": 404.8
+      },
+      {
+        "got_scene_time": 271.438,
+        "yt_scene_time": 410.1333333333333
+      },
+      {
+        "got_scene_time": 753.043,
+        "yt_scene_time": 415.46666666666664
+      },
+      {
+        "got_scene_time": 1986.775,
+        "yt_scene_time": 420.8
+      },
+      {
+        "got_scene_time": 771.145,
+        "yt_scene_time": 426.1333333333333
+      },
+      {
+        "got_scene_time": 773.939,
+        "yt_scene_time": 431.46666666666664
+      },
+      {
+        "got_scene_time": 848.097,
+        "yt_scene_time": 447.46666666666664
+      },
+      {
+        "got_scene_time": 879.461,
+        "yt_scene_time": 458.1333333333333
+      },
+      {
+        "got_scene_time": 900.524,
+        "yt_scene_time": 461.1333333333333
+      },
+      {
+        "got_scene_time": 902.693,
+        "yt_scene_time": 463.46666666666664
+      },
+      {
+        "got_scene_time": 172.964,
+        "yt_scene_time": 468.8
+      },
+      {
+        "got_scene_time": 956.121,
+        "yt_scene_time": 484.23333333333335
+      },
+      {
+        "got_scene_time": 972.429,
+        "yt_scene_time": 489.6
+      },
+      {
+        "got_scene_time": 978.352,
+        "yt_scene_time": 494.6
+      },
+      {
+        "got_scene_time": 1075.323,
+        "yt_scene_time": 503.1666666666667
+      },
+      {
+        "got_scene_time": 1077.2,
+        "yt_scene_time": 505.06666666666666
+      },
+      {
+        "got_scene_time": 1079.619,
+        "yt_scene_time": 507.06666666666666
+      },
+      {
+        "got_scene_time": 1084.166,
+        "yt_scene_time": 510.4
+      },
+      {
+        "got_scene_time": 1089.087,
+        "yt_scene_time": 515.4333333333333
+      },
+      {
+        "got_scene_time": 1123.455,
+        "yt_scene_time": 530.5666666666667
+      },
+      {
+        "got_scene_time": 1186.267,
+        "yt_scene_time": 536.0
+      },
+      {
+        "got_scene_time": 1256.212,
+        "yt_scene_time": 550.9333333333333
+      },
+      {
+        "got_scene_time": 1289.787,
+        "yt_scene_time": 566.6666666666666
+      },
+      {
+        "got_scene_time": 1311.017,
+        "yt_scene_time": 576.9666666666667
+      },
+      {
+        "got_scene_time": 1334.082,
+        "yt_scene_time": 587.7333333333333
+      },
+      {
+        "got_scene_time": 1338.086,
+        "yt_scene_time": 591.2666666666667
+      },
+      {
+        "got_scene_time": 1344.509,
+        "yt_scene_time": 593.0333333333333
+      },
+      {
+        "got_scene_time": 246.83,
+        "yt_scene_time": 608.9666666666667
+      },
+      {
+        "got_scene_time": 1482.438,
+        "yt_scene_time": 614.4
+      },
+      {
+        "got_scene_time": 1496.869,
+        "yt_scene_time": 619.7333333333333
+      },
+      {
+        "got_scene_time": 1828.367,
+        "yt_scene_time": 625.0666666666667
+      },
+      {
+        "got_scene_time": 1590.546,
+        "yt_scene_time": 641.0666666666667
+      },
+      {
+        "got_scene_time": 1599.889,
+        "yt_scene_time": 646.5333333333333
+      },
+      {
+        "got_scene_time": 172.964,
+        "yt_scene_time": 651.7333333333333
+      },
+      {
+        "got_scene_time": 271.438,
+        "yt_scene_time": 657.0666666666667
+      },
+      {
+        "got_scene_time": 1615.529,
+        "yt_scene_time": 662.4
+      },
+      {
+        "got_scene_time": 1623.037,
+        "yt_scene_time": 667.7333333333333
+      },
+      {
+        "got_scene_time": 1638.469,
+        "yt_scene_time": 678.4
+      },
+      {
+        "got_scene_time": 767.516,
+        "yt_scene_time": 683.7333333333333
+      },
+      {
+        "got_scene_time": 1658.197,
+        "yt_scene_time": 694.4
+      },
+      {
+        "got_scene_time": 1193.9,
+        "yt_scene_time": 705.0666666666667
+      },
+      {
+        "got_scene_time": 1688.727,
+        "yt_scene_time": 710.4
+      },
+      {
+        "got_scene_time": 1694.191,
+        "yt_scene_time": 715.7333333333333
+      },
+      {
+        "got_scene_time": 1698.946,
+        "yt_scene_time": 721.0666666666667
+      },
+      {
+        "got_scene_time": 1717.464,
+        "yt_scene_time": 726.3333333333334
+      },
+      {
+        "got_scene_time": 1741.53,
+        "yt_scene_time": 737.0666666666667
+      },
+      {
+        "got_scene_time": 1753.834,
+        "yt_scene_time": 742.4
+      },
+      {
+        "got_scene_time": 1755.544,
+        "yt_scene_time": 747.7333333333333
+      },
+      {
+        "got_scene_time": 1761.05,
+        "yt_scene_time": 753.0666666666667
+      },
+      {
+        "got_scene_time": 1772.186,
+        "yt_scene_time": 754.8666666666667
+      },
+      {
+        "got_scene_time": 1772.394,
+        "yt_scene_time": 758.4
+      },
+      {
+        "got_scene_time": 1816.48,
+        "yt_scene_time": 763.7333333333333
+      },
+      {
+        "got_scene_time": 271.438,
+        "yt_scene_time": 769.0666666666667
+      },
+      {
+        "got_scene_time": 1858.772,
+        "yt_scene_time": 778.5666666666667
+      },
+      {
+        "got_scene_time": 1866.363,
+        "yt_scene_time": 784.0
+      },
+      {
+        "got_scene_time": 1880.46,
+        "yt_scene_time": 789.3333333333334
+      },
+      {
+        "got_scene_time": 1884.381,
+        "yt_scene_time": 794.6666666666666
+      },
+      {
+        "got_scene_time": 1897.269,
+        "yt_scene_time": 805.3333333333334
+      },
+      {
+        "got_scene_time": 1913.368,
+        "yt_scene_time": 810.6666666666666
+      },
+      {
+        "got_scene_time": 1919.791,
+        "yt_scene_time": 816.0
+      },
+      {
+        "got_scene_time": 271.438,
+        "yt_scene_time": 826.6666666666666
+      },
+      {
+        "got_scene_time": 1949.821,
+        "yt_scene_time": 832.0
+      },
+      {
+        "got_scene_time": 1954.451,
+        "yt_scene_time": 837.3333333333334
+      },
+      {
+        "got_scene_time": 1959.748,
+        "yt_scene_time": 842.6666666666666
+      }
+    ],
+    "35": [
+      {
+        "got_scene_time": 1667.957,
+        "yt_scene_time": 2.002
+      },
+      {
+        "got_scene_time": 130.589,
+        "yt_scene_time": 13.346666666666666
+      },
+      {
+        "got_scene_time": 131.298,
+        "yt_scene_time": 14.014
+      },
+      {
+        "got_scene_time": 132.716,
+        "yt_scene_time": 15.482133333333334
+      },
+      {
+        "got_scene_time": 214.464,
+        "yt_scene_time": 17.484133333333332
+      },
+      {
+        "got_scene_time": 151.443,
+        "yt_scene_time": 19.486133333333335
+      },
+      {
+        "got_scene_time": 213.129,
+        "yt_scene_time": 21.488133333333334
+      },
+      {
+        "got_scene_time": 215.173,
+        "yt_scene_time": 23.490133333333333
+      },
+      {
+        "got_scene_time": 225.016,
+        "yt_scene_time": 25.492133333333335
+      },
+      {
+        "got_scene_time": 3336.455,
+        "yt_scene_time": 27.494133333333334
+      },
+      {
+        "got_scene_time": 258.717,
+        "yt_scene_time": 29.496133333333333
+      },
+      {
+        "got_scene_time": 319.527,
+        "yt_scene_time": 30.964266666666667
+      },
+      {
+        "got_scene_time": 321.529,
+        "yt_scene_time": 32.96626666666667
+      },
+      {
+        "got_scene_time": 350.642,
+        "yt_scene_time": 36.97026666666667
+      },
+      {
+        "got_scene_time": 352.644,
+        "yt_scene_time": 38.97226666666667
+      },
+      {
+        "got_scene_time": 365.156,
+        "yt_scene_time": 40.974266666666665
+      },
+      {
+        "got_scene_time": 427.719,
+        "yt_scene_time": 42.97626666666667
+      },
+      {
+        "got_scene_time": 429.804,
+        "yt_scene_time": 44.97826666666667
+      },
+      {
+        "got_scene_time": 431.139,
+        "yt_scene_time": 46.4464
+      },
+      {
+        "got_scene_time": 441.024,
+        "yt_scene_time": 48.4484
+      },
+      {
+        "got_scene_time": 442.984,
+        "yt_scene_time": 50.4504
+      },
+      {
+        "got_scene_time": 444.986,
+        "yt_scene_time": 52.4524
+      },
+      {
+        "got_scene_time": 446.988,
+        "yt_scene_time": 54.4544
+      },
+      {
+        "got_scene_time": 449.032,
+        "yt_scene_time": 56.4564
+      },
+      {
+        "got_scene_time": 459.667,
+        "yt_scene_time": 58.4584
+      },
+      {
+        "got_scene_time": 461.586,
+        "yt_scene_time": 60.4604
+      },
+      {
+        "got_scene_time": 473.514,
+        "yt_scene_time": 61.928533333333334
+      },
+      {
+        "got_scene_time": 475.558,
+        "yt_scene_time": 63.93053333333334
+      },
+      {
+        "got_scene_time": 478.728,
+        "yt_scene_time": 65.93253333333334
+      },
+      {
+        "got_scene_time": 481.064,
+        "yt_scene_time": 67.93453333333333
+      },
+      {
+        "got_scene_time": 493.743,
+        "yt_scene_time": 69.93653333333333
+      },
+      {
+        "got_scene_time": 495.787,
+        "yt_scene_time": 71.93853333333334
+      },
+      {
+        "got_scene_time": 497.789,
+        "yt_scene_time": 73.94053333333333
+      },
+      {
+        "got_scene_time": 505.296,
+        "yt_scene_time": 81.41466666666666
+      },
+      {
+        "got_scene_time": 507.215,
+        "yt_scene_time": 83.41666666666667
+      },
+      {
+        "got_scene_time": 509.3,
+        "yt_scene_time": 85.41866666666667
+      },
+      {
+        "got_scene_time": 511.26,
+        "yt_scene_time": 87.42066666666666
+      },
+      {
+        "got_scene_time": 513.346,
+        "yt_scene_time": 89.42266666666667
+      },
+      {
+        "got_scene_time": 517.683,
+        "yt_scene_time": 91.42466666666667
+      },
+      {
+        "got_scene_time": 518.601,
+        "yt_scene_time": 92.8928
+      },
+      {
+        "got_scene_time": 521.395,
+        "yt_scene_time": 94.8948
+      },
+      {
+        "got_scene_time": 538.371,
+        "yt_scene_time": 96.8968
+      },
+      {
+        "got_scene_time": 539.121,
+        "yt_scene_time": 98.8988
+      },
+      {
+        "got_scene_time": 541.958,
+        "yt_scene_time": 100.9008
+      },
+      {
+        "got_scene_time": 552.927,
+        "yt_scene_time": 102.9028
+      },
+      {
+        "got_scene_time": 557.64,
+        "yt_scene_time": 104.9048
+      },
+      {
+        "got_scene_time": 565.898,
+        "yt_scene_time": 106.9068
+      },
+      {
+        "got_scene_time": 569.527,
+        "yt_scene_time": 108.37493333333333
+      },
+      {
+        "got_scene_time": 576.909,
+        "yt_scene_time": 114.38093333333333
+      },
+      {
+        "got_scene_time": 576.617,
+        "yt_scene_time": 116.38293333333333
+      },
+      {
+        "got_scene_time": 582.164,
+        "yt_scene_time": 120.38693333333333
+      },
+      {
+        "got_scene_time": 583.583,
+        "yt_scene_time": 122.38893333333333
+      },
+      {
+        "got_scene_time": 584.959,
+        "yt_scene_time": 123.85706666666667
+      },
+      {
+        "got_scene_time": 634.842,
+        "yt_scene_time": 127.86106666666667
+      },
+      {
+        "got_scene_time": 637.094,
+        "yt_scene_time": 129.86306666666667
+      },
+      {
+        "got_scene_time": 641.182,
+        "yt_scene_time": 133.86706666666666
+      },
+      {
+        "got_scene_time": 3036.74,
+        "yt_scene_time": 135.86906666666667
+      },
+      {
+        "got_scene_time": 721.095,
+        "yt_scene_time": 145.3452
+      },
+      {
+        "got_scene_time": 721.72,
+        "yt_scene_time": 147.3472
+      },
+      {
+        "got_scene_time": 724.348,
+        "yt_scene_time": 149.3492
+      },
+      {
+        "got_scene_time": 727.017,
+        "yt_scene_time": 151.3512
+      },
+      {
+        "got_scene_time": 730.646,
+        "yt_scene_time": 153.3532
+      },
+      {
+        "got_scene_time": 730.563,
+        "yt_scene_time": 154.82133333333334
+      },
+      {
+        "got_scene_time": 724.89,
+        "yt_scene_time": 156.82333333333332
+      },
+      {
+        "got_scene_time": 1667.957,
+        "yt_scene_time": 158.82533333333333
+      },
+      {
+        "got_scene_time": 747.288,
+        "yt_scene_time": 160.82733333333334
+      },
+      {
+        "got_scene_time": 746.662,
+        "yt_scene_time": 162.82933333333332
+      },
+      {
+        "got_scene_time": 1667.957,
+        "yt_scene_time": 166.83333333333334
+      },
+      {
+        "got_scene_time": 753.294,
+        "yt_scene_time": 168.83533333333332
+      },
+      {
+        "got_scene_time": 755.462,
+        "yt_scene_time": 170.30346666666668
+      },
+      {
+        "got_scene_time": 766.265,
+        "yt_scene_time": 172.30546666666666
+      },
+      {
+        "got_scene_time": 769.768,
+        "yt_scene_time": 174.30746666666667
+      },
+      {
+        "got_scene_time": 769.101,
+        "yt_scene_time": 176.30946666666668
+      },
+      {
+        "got_scene_time": 849.056,
+        "yt_scene_time": 185.7856
+      },
+      {
+        "got_scene_time": 851.517,
+        "yt_scene_time": 187.7876
+      },
+      {
+        "got_scene_time": 854.395,
+        "yt_scene_time": 189.7896
+      },
+      {
+        "got_scene_time": 856.313,
+        "yt_scene_time": 191.7916
+      },
+      {
+        "got_scene_time": 1667.957,
+        "yt_scene_time": 193.7936
+      },
+      {
+        "got_scene_time": 1667.957,
+        "yt_scene_time": 195.7956
+      },
+      {
+        "got_scene_time": 942.065,
+        "yt_scene_time": 199.7996
+      },
+      {
+        "got_scene_time": 942.9,
+        "yt_scene_time": 201.26773333333333
+      },
+      {
+        "got_scene_time": 945.11,
+        "yt_scene_time": 203.26973333333333
+      },
+      {
+        "got_scene_time": 950.824,
+        "yt_scene_time": 205.27173333333334
+      },
+      {
+        "got_scene_time": 952.576,
+        "yt_scene_time": 207.27373333333333
+      },
+      {
+        "got_scene_time": 955.954,
+        "yt_scene_time": 211.27773333333334
+      },
+      {
+        "got_scene_time": 956.121,
+        "yt_scene_time": 213.27973333333333
+      },
+      {
+        "got_scene_time": 1667.957,
+        "yt_scene_time": 215.28173333333334
+      },
+      {
+        "got_scene_time": 964.046,
+        "yt_scene_time": 218.75186666666667
+      },
+      {
+        "got_scene_time": 965.714,
+        "yt_scene_time": 220.75386666666665
+      },
+      {
+        "got_scene_time": 968.05,
+        "yt_scene_time": 222.75586666666666
+      },
+      {
+        "got_scene_time": 970.093,
+        "yt_scene_time": 224.75786666666667
+      },
+      {
+        "got_scene_time": 980.228,
+        "yt_scene_time": 226.75986666666665
+      },
+      {
+        "got_scene_time": 983.732,
+        "yt_scene_time": 228.76186666666666
+      },
+      {
+        "got_scene_time": 985.4,
+        "yt_scene_time": 230.76386666666667
+      },
+      {
+        "got_scene_time": 988.111,
+        "yt_scene_time": 232.232
+      },
+      {
+        "got_scene_time": 987.11,
+        "yt_scene_time": 234.234
+      },
+      {
+        "got_scene_time": 990.405,
+        "yt_scene_time": 236.236
+      },
+      {
+        "got_scene_time": 1667.957,
+        "yt_scene_time": 238.238
+      },
+      {
+        "got_scene_time": 995.035,
+        "yt_scene_time": 240.24
+      },
+      {
+        "got_scene_time": 1029.152,
+        "yt_scene_time": 242.242
+      },
+      {
+        "got_scene_time": 1031.029,
+        "yt_scene_time": 244.244
+      },
+      {
+        "got_scene_time": 1033.156,
+        "yt_scene_time": 246.246
+      },
+      {
+        "got_scene_time": 1036.91,
+        "yt_scene_time": 247.71413333333334
+      },
+      {
+        "got_scene_time": 1035.075,
+        "yt_scene_time": 249.71613333333335
+      },
+      {
+        "got_scene_time": 1042.416,
+        "yt_scene_time": 255.72213333333335
+      },
+      {
+        "got_scene_time": 1043.458,
+        "yt_scene_time": 257.7241333333333
+      },
+      {
+        "got_scene_time": 1046.336,
+        "yt_scene_time": 259.72613333333334
+      },
+      {
+        "got_scene_time": 1048.171,
+        "yt_scene_time": 261.72813333333335
+      },
+      {
+        "got_scene_time": 1050.215,
+        "yt_scene_time": 263.19626666666665
+      },
+      {
+        "got_scene_time": 1049.131,
+        "yt_scene_time": 265.19826666666665
+      },
+      {
+        "got_scene_time": 1044.209,
+        "yt_scene_time": 267.20026666666666
+      },
+      {
+        "got_scene_time": 1056.138,
+        "yt_scene_time": 269.2022666666667
+      },
+      {
+        "got_scene_time": 1078.577,
+        "yt_scene_time": 271.2042666666667
+      },
+      {
+        "got_scene_time": 1080.704,
+        "yt_scene_time": 273.2062666666667
+      },
+      {
+        "got_scene_time": 1082.497,
+        "yt_scene_time": 275.20826666666665
+      },
+      {
+        "got_scene_time": 1085.041,
+        "yt_scene_time": 277.21026666666666
+      },
+      {
+        "got_scene_time": 1121.995,
+        "yt_scene_time": 282.6824
+      },
+      {
+        "got_scene_time": 1123.955,
+        "yt_scene_time": 284.6844
+      },
+      {
+        "got_scene_time": 1125.999,
+        "yt_scene_time": 286.6864
+      },
+      {
+        "got_scene_time": 1667.957,
+        "yt_scene_time": 288.6884
+      },
+      {
+        "got_scene_time": 1132.13,
+        "yt_scene_time": 292.6924
+      },
+      {
+        "got_scene_time": 1135.342,
+        "yt_scene_time": 296.16253333333333
+      },
+      {
+        "got_scene_time": 1137.219,
+        "yt_scene_time": 298.16453333333334
+      },
+      {
+        "got_scene_time": 1186.226,
+        "yt_scene_time": 300.16653333333335
+      },
+      {
+        "got_scene_time": 1187.56,
+        "yt_scene_time": 302.16853333333336
+      },
+      {
+        "got_scene_time": 1190.355,
+        "yt_scene_time": 304.1705333333333
+      },
+      {
+        "got_scene_time": 1192.315,
+        "yt_scene_time": 306.1725333333333
+      },
+      {
+        "got_scene_time": 1219.217,
+        "yt_scene_time": 308.17453333333333
+      },
+      {
+        "got_scene_time": 1239.154,
+        "yt_scene_time": 309.6426666666667
+      },
+      {
+        "got_scene_time": 1222.262,
+        "yt_scene_time": 311.6446666666667
+      },
+      {
+        "got_scene_time": 1230.395,
+        "yt_scene_time": 313.64666666666665
+      },
+      {
+        "got_scene_time": 1299.339,
+        "yt_scene_time": 315.64866666666666
+      },
+      {
+        "got_scene_time": 1301.674,
+        "yt_scene_time": 317.65066666666667
+      },
+      {
+        "got_scene_time": 1303.426,
+        "yt_scene_time": 319.6526666666667
+      },
+      {
+        "got_scene_time": 1308.723,
+        "yt_scene_time": 325.1248
+      },
+      {
+        "got_scene_time": 1343.883,
+        "yt_scene_time": 331.1308
+      },
+      {
+        "got_scene_time": 1345.343,
+        "yt_scene_time": 333.1328
+      },
+      {
+        "got_scene_time": 1347.72,
+        "yt_scene_time": 335.1348
+      },
+      {
+        "got_scene_time": 1349.472,
+        "yt_scene_time": 337.1368
+      },
+      {
+        "got_scene_time": 1479.185,
+        "yt_scene_time": 354.6209333333333
+      },
+      {
+        "got_scene_time": 1667.957,
+        "yt_scene_time": 358.0910666666667
+      },
+      {
+        "got_scene_time": 1491.781,
+        "yt_scene_time": 362.09506666666664
+      },
+      {
+        "got_scene_time": 1498.663,
+        "yt_scene_time": 364.09706666666665
+      },
+      {
+        "got_scene_time": 1498.204,
+        "yt_scene_time": 366.09906666666666
+      },
+      {
+        "got_scene_time": 1510.216,
+        "yt_scene_time": 368.10106666666667
+      },
+      {
+        "got_scene_time": 1512.635,
+        "yt_scene_time": 370.1030666666667
+      },
+      {
+        "got_scene_time": 1667.957,
+        "yt_scene_time": 373.5732
+      },
+      {
+        "got_scene_time": 1540.246,
+        "yt_scene_time": 379.5792
+      },
+      {
+        "got_scene_time": 1540.454,
+        "yt_scene_time": 381.5812
+      },
+      {
+        "got_scene_time": 1545.293,
+        "yt_scene_time": 383.5832
+      },
+      {
+        "got_scene_time": 1546.043,
+        "yt_scene_time": 385.5852
+      },
+      {
+        "got_scene_time": 1547.169,
+        "yt_scene_time": 387.05333333333334
+      },
+      {
+        "got_scene_time": 1569.775,
+        "yt_scene_time": 393.0593333333333
+      },
+      {
+        "got_scene_time": 1569.358,
+        "yt_scene_time": 395.0613333333333
+      },
+      {
+        "got_scene_time": 1573.154,
+        "yt_scene_time": 397.06333333333333
+      },
+      {
+        "got_scene_time": 1575.406,
+        "yt_scene_time": 399.06533333333334
+      },
+      {
+        "got_scene_time": 1588.335,
+        "yt_scene_time": 406.53946666666667
+      },
+      {
+        "got_scene_time": 1590.671,
+        "yt_scene_time": 408.5414666666667
+      },
+      {
+        "got_scene_time": 1588.836,
+        "yt_scene_time": 410.5434666666667
+      },
+      {
+        "got_scene_time": 1592.59,
+        "yt_scene_time": 412.54546666666664
+      },
+      {
+        "got_scene_time": 1667.957,
+        "yt_scene_time": 414.54746666666665
+      },
+      {
+        "got_scene_time": 1605.561,
+        "yt_scene_time": 416.54946666666666
+      },
+      {
+        "got_scene_time": 1607.146,
+        "yt_scene_time": 418.0176
+      },
+      {
+        "got_scene_time": 1609.065,
+        "yt_scene_time": 420.0196
+      },
+      {
+        "got_scene_time": 1611.025,
+        "yt_scene_time": 422.0216
+      },
+      {
+        "got_scene_time": 1613.027,
+        "yt_scene_time": 424.0236
+      },
+      {
+        "got_scene_time": 1615.321,
+        "yt_scene_time": 426.0256
+      },
+      {
+        "got_scene_time": 1617.114,
+        "yt_scene_time": 428.0276
+      },
+      {
+        "got_scene_time": 1634.423,
+        "yt_scene_time": 437.50373333333334
+      },
+      {
+        "got_scene_time": 1640.095,
+        "yt_scene_time": 439.50573333333335
+      },
+      {
+        "got_scene_time": 1642.056,
+        "yt_scene_time": 441.5077333333333
+      },
+      {
+        "got_scene_time": 1653.15,
+        "yt_scene_time": 445.5117333333333
+      },
+      {
+        "got_scene_time": 1655.152,
+        "yt_scene_time": 447.51373333333333
+      },
+      {
+        "got_scene_time": 1656.654,
+        "yt_scene_time": 448.9818666666667
+      },
+      {
+        "got_scene_time": 2491.237,
+        "yt_scene_time": 450.98386666666664
+      },
+      {
+        "got_scene_time": 1661.45,
+        "yt_scene_time": 452.98586666666665
+      },
+      {
+        "got_scene_time": 2366.863,
+        "yt_scene_time": 454.98786666666666
+      },
+      {
+        "got_scene_time": 246.037,
+        "yt_scene_time": 456.98986666666667
+      },
+      {
+        "got_scene_time": 1688.143,
+        "yt_scene_time": 462.99586666666664
+      },
+      {
+        "got_scene_time": 1689.645,
+        "yt_scene_time": 464.464
+      },
+      {
+        "got_scene_time": 1692.147,
+        "yt_scene_time": 466.466
+      },
+      {
+        "got_scene_time": 1693.691,
+        "yt_scene_time": 468.468
+      },
+      {
+        "got_scene_time": 1695.776,
+        "yt_scene_time": 470.47
+      },
+      {
+        "got_scene_time": 1713.043,
+        "yt_scene_time": 472.472
+      },
+      {
+        "got_scene_time": 1716.13,
+        "yt_scene_time": 474.474
+      },
+      {
+        "got_scene_time": 1717.673,
+        "yt_scene_time": 476.476
+      },
+      {
+        "got_scene_time": 1720.259,
+        "yt_scene_time": 478.478
+      },
+      {
+        "got_scene_time": 1721.885,
+        "yt_scene_time": 479.9461333333333
+      },
+      {
+        "got_scene_time": 1719.592,
+        "yt_scene_time": 485.95213333333334
+      },
+      {
+        "got_scene_time": 1729.31,
+        "yt_scene_time": 487.95413333333335
+      },
+      {
+        "got_scene_time": 1734.606,
+        "yt_scene_time": 489.95613333333336
+      },
+      {
+        "got_scene_time": 1735.274,
+        "yt_scene_time": 491.9581333333333
+      },
+      {
+        "got_scene_time": 1736.859,
+        "yt_scene_time": 493.9601333333333
+      },
+      {
+        "got_scene_time": 1739.32,
+        "yt_scene_time": 495.4282666666667
+      },
+      {
+        "got_scene_time": 1741.655,
+        "yt_scene_time": 497.4302666666667
+      }
+    ],
+    "36": [
+      {
+        "got_scene_time": 204.12,
+        "yt_scene_time": 88.088
+      },
+      {
+        "got_scene_time": 262.22,
+        "yt_scene_time": 98.23146666666666
+      },
+      {
+        "got_scene_time": 287.954,
+        "yt_scene_time": 103.57013333333333
+      },
+      {
+        "got_scene_time": 2072.527,
+        "yt_scene_time": 112.47903333333333
+      },
+      {
+        "got_scene_time": 2227.056,
+        "yt_scene_time": 121.7216
+      },
+      {
+        "got_scene_time": 2701.447,
+        "yt_scene_time": 127.06026666666666
+      },
+      {
+        "got_scene_time": 2242.447,
+        "yt_scene_time": 132.39893333333333
+      },
+      {
+        "got_scene_time": 507.59,
+        "yt_scene_time": 137.6375
+      },
+      {
+        "got_scene_time": 563.104,
+        "yt_scene_time": 143.07626666666667
+      },
+      {
+        "got_scene_time": 577.118,
+        "yt_scene_time": 148.41493333333332
+      },
+      {
+        "got_scene_time": 581.998,
+        "yt_scene_time": 153.7536
+      },
+      {
+        "got_scene_time": 619.91,
+        "yt_scene_time": 159.09226666666666
+      },
+      {
+        "got_scene_time": 690.356,
+        "yt_scene_time": 163.5634
+      },
+      {
+        "got_scene_time": 1368.783,
+        "yt_scene_time": 168.70186666666666
+      },
+      {
+        "got_scene_time": 714.213,
+        "yt_scene_time": 174.04053333333334
+      },
+      {
+        "got_scene_time": 733.19,
+        "yt_scene_time": 179.3792
+      },
+      {
+        "got_scene_time": 755.963,
+        "yt_scene_time": 184.71786666666668
+      },
+      {
+        "got_scene_time": 27.152,
+        "yt_scene_time": 190.05653333333333
+      },
+      {
+        "got_scene_time": 765.598,
+        "yt_scene_time": 195.3952
+      },
+      {
+        "got_scene_time": 856.605,
+        "yt_scene_time": 199.93306666666666
+      },
+      {
+        "got_scene_time": 851.558,
+        "yt_scene_time": 205.0048
+      },
+      {
+        "got_scene_time": 867.95,
+        "yt_scene_time": 210.34346666666667
+      },
+      {
+        "got_scene_time": 210.126,
+        "yt_scene_time": 215.68213333333333
+      },
+      {
+        "got_scene_time": 895.769,
+        "yt_scene_time": 221.0208
+      },
+      {
+        "got_scene_time": 951.45,
+        "yt_scene_time": 226.35946666666666
+      },
+      {
+        "got_scene_time": 972.429,
+        "yt_scene_time": 231.29773333333333
+      },
+      {
+        "got_scene_time": 982.94,
+        "yt_scene_time": 236.50293333333335
+      },
+      {
+        "got_scene_time": 1024.94,
+        "yt_scene_time": 246.31273333333334
+      },
+      {
+        "got_scene_time": 1032.239,
+        "yt_scene_time": 251.4512
+      },
+      {
+        "got_scene_time": 1038.912,
+        "yt_scene_time": 256.7898666666667
+      },
+      {
+        "got_scene_time": 1058.348,
+        "yt_scene_time": 261.32773333333336
+      },
+      {
+        "got_scene_time": 1082.08,
+        "yt_scene_time": 266.2993666666667
+      },
+      {
+        "got_scene_time": 1122.579,
+        "yt_scene_time": 276.3761
+      },
+      {
+        "got_scene_time": 1068.65,
+        "yt_scene_time": 287.22026666666665
+      },
+      {
+        "got_scene_time": 3306.425,
+        "yt_scene_time": 292.55893333333336
+      },
+      {
+        "got_scene_time": 3306.425,
+        "yt_scene_time": 297.8976
+      },
+      {
+        "got_scene_time": 1251.666,
+        "yt_scene_time": 303.23626666666667
+      },
+      {
+        "got_scene_time": 54.763,
+        "yt_scene_time": 308.5749333333333
+      },
+      {
+        "got_scene_time": 2467.755,
+        "yt_scene_time": 313.9136
+      },
+      {
+        "got_scene_time": 1439.437,
+        "yt_scene_time": 318.98533333333336
+      },
+      {
+        "got_scene_time": 1453.284,
+        "yt_scene_time": 323.9569666666667
+      },
+      {
+        "got_scene_time": 1491.405,
+        "yt_scene_time": 329.39573333333334
+      },
+      {
+        "got_scene_time": 1521.477,
+        "yt_scene_time": 340.07306666666665
+      },
+      {
+        "got_scene_time": 1608.856,
+        "yt_scene_time": 345.41173333333336
+      },
+      {
+        "got_scene_time": 1649.063,
+        "yt_scene_time": 350.4834666666667
+      },
+      {
+        "got_scene_time": 1679.134,
+        "yt_scene_time": 355.5552
+      },
+      {
+        "got_scene_time": 1710.457,
+        "yt_scene_time": 360.89386666666667
+      },
+      {
+        "got_scene_time": 1717.84,
+        "yt_scene_time": 366.2325333333333
+      },
+      {
+        "got_scene_time": 1739.069,
+        "yt_scene_time": 371.5712
+      },
+      {
+        "got_scene_time": 1876.456,
+        "yt_scene_time": 375.60856666666666
+      },
+      {
+        "got_scene_time": 1907.321,
+        "yt_scene_time": 385.9856
+      },
+      {
+        "got_scene_time": 1974.554,
+        "yt_scene_time": 391.3242666666667
+      },
+      {
+        "got_scene_time": 2079.075,
+        "yt_scene_time": 410.5434666666667
+      },
+      {
+        "got_scene_time": 2093.423,
+        "yt_scene_time": 415.88213333333334
+      },
+      {
+        "got_scene_time": 2098.762,
+        "yt_scene_time": 421.2208
+      },
+      {
+        "got_scene_time": 2140.011,
+        "yt_scene_time": 426.55946666666665
+      },
+      {
+        "got_scene_time": 2151.106,
+        "yt_scene_time": 431.8981333333333
+      },
+      {
+        "got_scene_time": 1723.47,
+        "yt_scene_time": 437.2368
+      },
+      {
+        "got_scene_time": 2202.073,
+        "yt_scene_time": 442.57546666666667
+      },
+      {
+        "got_scene_time": 2232.979,
+        "yt_scene_time": 447.9141333333333
+      },
+      {
+        "got_scene_time": 2240.195,
+        "yt_scene_time": 453.2528
+      },
+      {
+        "got_scene_time": 2254.709,
+        "yt_scene_time": 458.5914666666667
+      },
+      {
+        "got_scene_time": 2317.814,
+        "yt_scene_time": 469.2688
+      },
+      {
+        "got_scene_time": 2337.959,
+        "yt_scene_time": 474.60746666666665
+      },
+      {
+        "got_scene_time": 2347.093,
+        "yt_scene_time": 479.9461333333333
+      },
+      {
+        "got_scene_time": 2364.861,
+        "yt_scene_time": 485.2848
+      },
+      {
+        "got_scene_time": 2378.249,
+        "yt_scene_time": 490.6234666666667
+      },
+      {
+        "got_scene_time": 1566.814,
+        "yt_scene_time": 495.9621333333333
+      },
+      {
+        "got_scene_time": 2414.41,
+        "yt_scene_time": 501.3008
+      },
+      {
+        "got_scene_time": 2496.409,
+        "yt_scene_time": 506.6394666666667
+      },
+      {
+        "got_scene_time": 2516.47,
+        "yt_scene_time": 511.97813333333335
+      },
+      {
+        "got_scene_time": 2524.687,
+        "yt_scene_time": 517.3168
+      },
+      {
+        "got_scene_time": 2540.286,
+        "yt_scene_time": 522.6554666666667
+      },
+      {
+        "got_scene_time": 2538.284,
+        "yt_scene_time": 527.9941333333334
+      },
+      {
+        "got_scene_time": 2581.202,
+        "yt_scene_time": 533.3328
+      },
+      {
+        "got_scene_time": 2602.431,
+        "yt_scene_time": 538.6714666666667
+      },
+      {
+        "got_scene_time": 2667.83,
+        "yt_scene_time": 549.3488
+      },
+      {
+        "got_scene_time": 2713.333,
+        "yt_scene_time": 554.6874666666666
+      },
+      {
+        "got_scene_time": 2743.071,
+        "yt_scene_time": 560.0261333333333
+      },
+      {
+        "got_scene_time": 880.212,
+        "yt_scene_time": 565.3648
+      },
+      {
+        "got_scene_time": 2800.128,
+        "yt_scene_time": 570.7034666666667
+      },
+      {
+        "got_scene_time": 2811.598,
+        "yt_scene_time": 576.0421333333334
+      },
+      {
+        "got_scene_time": 2817.938,
+        "yt_scene_time": 581.3808
+      },
+      {
+        "got_scene_time": 2831.66,
+        "yt_scene_time": 586.7194666666667
+      },
+      {
+        "got_scene_time": 2838.292,
+        "yt_scene_time": 592.0581333333333
+      },
+      {
+        "got_scene_time": 2873.41,
+        "yt_scene_time": 597.3968
+      },
+      {
+        "got_scene_time": 2884.004,
+        "yt_scene_time": 602.7354666666666
+      },
+      {
+        "got_scene_time": 2917.245,
+        "yt_scene_time": 608.0741333333333
+      },
+      {
+        "got_scene_time": 2944.731,
+        "yt_scene_time": 613.4128
+      },
+      {
+        "got_scene_time": 3048.71,
+        "yt_scene_time": 624.0901333333334
+      },
+      {
+        "got_scene_time": 3103.056,
+        "yt_scene_time": 632.9990333333334
+      },
+      {
+        "got_scene_time": 3107.936,
+        "yt_scene_time": 638.4711666666667
+      },
+      {
+        "got_scene_time": 2910.739,
+        "yt_scene_time": 643.8432
+      },
+      {
+        "got_scene_time": 221.096,
+        "yt_scene_time": 659.8592
+      },
+      {
+        "got_scene_time": 3201.029,
+        "yt_scene_time": 665.1978666666666
+      },
+      {
+        "got_scene_time": 3212.582,
+        "yt_scene_time": 670.5365333333333
+      },
+      {
+        "got_scene_time": 3216.919,
+        "yt_scene_time": 675.8752
+      },
+      {
+        "got_scene_time": 3221.841,
+        "yt_scene_time": 681.2138666666667
+      }
+    ],
+    "4": [
+      {
+        "got_scene_time": 125.959,
+        "yt_scene_time": 140.28
+      },
+      {
+        "got_scene_time": 1421.502,
+        "yt_scene_time": 150.4
+      },
+      {
+        "got_scene_time": 267.559,
+        "yt_scene_time": 175.96
+      },
+      {
+        "got_scene_time": 300.341,
+        "yt_scene_time": 186.24
+      },
+      {
+        "got_scene_time": 48.257,
+        "yt_scene_time": 196.64
+      },
+      {
+        "got_scene_time": 324.741,
+        "yt_scene_time": 202.12
+      },
+      {
+        "got_scene_time": 344.385,
+        "yt_scene_time": 216.24
+      },
+      {
+        "got_scene_time": 374.749,
+        "yt_scene_time": 226.56
+      },
+      {
+        "got_scene_time": 393.893,
+        "yt_scene_time": 237.12
+      },
+      {
+        "got_scene_time": 474.474,
+        "yt_scene_time": 262.4
+      },
+      {
+        "got_scene_time": 505.296,
+        "yt_scene_time": 267.56
+      },
+      {
+        "got_scene_time": 562.019,
+        "yt_scene_time": 276.76
+      },
+      {
+        "got_scene_time": 616.157,
+        "yt_scene_time": 287.36
+      },
+      {
+        "got_scene_time": 771.228,
+        "yt_scene_time": 297.6
+      },
+      {
+        "got_scene_time": 778.903,
+        "yt_scene_time": 307.84
+      },
+      {
+        "got_scene_time": 929.761,
+        "yt_scene_time": 327.44
+      },
+      {
+        "got_scene_time": 950.657,
+        "yt_scene_time": 332.88
+      },
+      {
+        "got_scene_time": 962.92,
+        "yt_scene_time": 338.24
+      },
+      {
+        "got_scene_time": 297.172,
+        "yt_scene_time": 348.32
+      },
+      {
+        "got_scene_time": 971.887,
+        "yt_scene_time": 353.6
+      },
+      {
+        "got_scene_time": 986.151,
+        "yt_scene_time": 357.92
+      },
+      {
+        "got_scene_time": 992.282,
+        "yt_scene_time": 362.72
+      },
+      {
+        "got_scene_time": 1030.195,
+        "yt_scene_time": 368.0
+      },
+      {
+        "got_scene_time": 1057.055,
+        "yt_scene_time": 373.44
+      },
+      {
+        "got_scene_time": 1683.847,
+        "yt_scene_time": 383.52
+      },
+      {
+        "got_scene_time": 1078.535,
+        "yt_scene_time": 394.08
+      },
+      {
+        "got_scene_time": 1085.834,
+        "yt_scene_time": 399.44
+      },
+      {
+        "got_scene_time": 1490.947,
+        "yt_scene_time": 445.48
+      },
+      {
+        "got_scene_time": 1516.055,
+        "yt_scene_time": 460.96
+      },
+      {
+        "got_scene_time": 1114.446,
+        "yt_scene_time": 491.52
+      },
+      {
+        "got_scene_time": 1358.982,
+        "yt_scene_time": 501.76
+      },
+      {
+        "got_scene_time": 800.382,
+        "yt_scene_time": 505.76
+      },
+      {
+        "got_scene_time": 1953.45,
+        "yt_scene_time": 555.52
+      },
+      {
+        "got_scene_time": 1973.595,
+        "yt_scene_time": 565.12
+      },
+      {
+        "got_scene_time": 2005.293,
+        "yt_scene_time": 575.88
+      },
+      {
+        "got_scene_time": 1976.223,
+        "yt_scene_time": 581.2
+      },
+      {
+        "got_scene_time": 2023.895,
+        "yt_scene_time": 586.48
+      },
+      {
+        "got_scene_time": 3093.505,
+        "yt_scene_time": 596.56
+      },
+      {
+        "got_scene_time": 2056.428,
+        "yt_scene_time": 606.4
+      },
+      {
+        "got_scene_time": 287.37,
+        "yt_scene_time": 611.48
+      },
+      {
+        "got_scene_time": 364.906,
+        "yt_scene_time": 616.96
+      },
+      {
+        "got_scene_time": 2112.609,
+        "yt_scene_time": 637.44
+      },
+      {
+        "got_scene_time": 2117.989,
+        "yt_scene_time": 642.56
+      },
+      {
+        "got_scene_time": 2134.214,
+        "yt_scene_time": 646.88
+      },
+      {
+        "got_scene_time": 2139.302,
+        "yt_scene_time": 652.16
+      },
+      {
+        "got_scene_time": 2144.891,
+        "yt_scene_time": 657.28
+      },
+      {
+        "got_scene_time": 2200.572,
+        "yt_scene_time": 682.84
+      },
+      {
+        "got_scene_time": 225.642,
+        "yt_scene_time": 687.44
+      },
+      {
+        "got_scene_time": 2243.448,
+        "yt_scene_time": 698.24
+      },
+      {
+        "got_scene_time": 2308.221,
+        "yt_scene_time": 718.4
+      },
+      {
+        "got_scene_time": 2406.485,
+        "yt_scene_time": 739.6
+      },
+      {
+        "got_scene_time": 2480.393,
+        "yt_scene_time": 754.72
+      },
+      {
+        "got_scene_time": 2520.683,
+        "yt_scene_time": 770.52
+      },
+      {
+        "got_scene_time": 2554.675,
+        "yt_scene_time": 784.72
+      },
+      {
+        "got_scene_time": 2887.132,
+        "yt_scene_time": 820.96
+      },
+      {
+        "got_scene_time": 2797.251,
+        "yt_scene_time": 852.16
+      },
+      {
+        "got_scene_time": 2821.984,
+        "yt_scene_time": 862.24
+      },
+      {
+        "got_scene_time": 2856.893,
+        "yt_scene_time": 888.0
+      },
+      {
+        "got_scene_time": 2873.201,
+        "yt_scene_time": 893.12
+      },
+      {
+        "got_scene_time": 2879.166,
+        "yt_scene_time": 898.56
+      },
+      {
+        "got_scene_time": 2889.384,
+        "yt_scene_time": 903.68
+      },
+      {
+        "got_scene_time": 3019.264,
+        "yt_scene_time": 918.56
+      },
+      {
+        "got_scene_time": 3038.533,
+        "yt_scene_time": 929.28
+      },
+      {
+        "got_scene_time": 1.501,
+        "yt_scene_time": 938.52
+      },
+      {
+        "got_scene_time": 3119.114,
+        "yt_scene_time": 975.52
+      },
+      {
+        "got_scene_time": 3068.772,
+        "yt_scene_time": 981.0
+      },
+      {
+        "got_scene_time": 3183.469,
+        "yt_scene_time": 995.76
+      },
+      {
+        "got_scene_time": 3208.036,
+        "yt_scene_time": 1015.68
+      },
+      {
+        "got_scene_time": 3219.255,
+        "yt_scene_time": 1025.28
+      }
+    ],
+    "41": [
+      {
+        "got_scene_time": 3336.455,
+        "yt_scene_time": 4.8
+      },
+      {
+        "got_scene_time": 3336.455,
+        "yt_scene_time": 50.48
+      },
+      {
+        "got_scene_time": 126.543,
+        "yt_scene_time": 51.2
+      },
+      {
+        "got_scene_time": 131.673,
+        "yt_scene_time": 56.32
+      },
+      {
+        "got_scene_time": 136.803,
+        "yt_scene_time": 61.44
+      },
+      {
+        "got_scene_time": 214.839,
+        "yt_scene_time": 71.68
+      },
+      {
+        "got_scene_time": 219.97,
+        "yt_scene_time": 76.8
+      },
+      {
+        "got_scene_time": 261.845,
+        "yt_scene_time": 92.16
+      },
+      {
+        "got_scene_time": 267.017,
+        "yt_scene_time": 97.28
+      },
+      {
+        "got_scene_time": 302.385,
+        "yt_scene_time": 102.4
+      },
+      {
+        "got_scene_time": 320.487,
+        "yt_scene_time": 112.64
+      },
+      {
+        "got_scene_time": 331.831,
+        "yt_scene_time": 122.88
+      },
+      {
+        "got_scene_time": 341.007,
+        "yt_scene_time": 133.12
+      },
+      {
+        "got_scene_time": 344.344,
+        "yt_scene_time": 138.24
+      },
+      {
+        "got_scene_time": 349.891,
+        "yt_scene_time": 143.36
+      },
+      {
+        "got_scene_time": 365.573,
+        "yt_scene_time": 158.72
+      },
+      {
+        "got_scene_time": 371.829,
+        "yt_scene_time": 163.84
+      },
+      {
+        "got_scene_time": 377.46,
+        "yt_scene_time": 168.96
+      },
+      {
+        "got_scene_time": 441.899,
+        "yt_scene_time": 184.32
+      },
+      {
+        "got_scene_time": 445.987,
+        "yt_scene_time": 189.44
+      },
+      {
+        "got_scene_time": 448.74,
+        "yt_scene_time": 194.56
+      },
+      {
+        "got_scene_time": 452.994,
+        "yt_scene_time": 199.68
+      },
+      {
+        "got_scene_time": 473.389,
+        "yt_scene_time": 209.92
+      },
+      {
+        "got_scene_time": 478.603,
+        "yt_scene_time": 215.04
+      },
+      {
+        "got_scene_time": 506.631,
+        "yt_scene_time": 230.4
+      },
+      {
+        "got_scene_time": 511.719,
+        "yt_scene_time": 235.52
+      },
+      {
+        "got_scene_time": 700.282,
+        "yt_scene_time": 266.24
+      },
+      {
+        "got_scene_time": 1023.98,
+        "yt_scene_time": 281.6
+      },
+      {
+        "got_scene_time": 1059.933,
+        "yt_scene_time": 286.72
+      },
+      {
+        "got_scene_time": 1079.619,
+        "yt_scene_time": 296.96
+      },
+      {
+        "got_scene_time": 1088.545,
+        "yt_scene_time": 302.08
+      },
+      {
+        "got_scene_time": 1107.272,
+        "yt_scene_time": 312.32
+      },
+      {
+        "got_scene_time": 1221.136,
+        "yt_scene_time": 317.44
+      },
+      {
+        "got_scene_time": 1277.901,
+        "yt_scene_time": 337.92
+      },
+      {
+        "got_scene_time": 1289.287,
+        "yt_scene_time": 353.28
+      },
+      {
+        "got_scene_time": 1343.883,
+        "yt_scene_time": 373.76
+      },
+      {
+        "got_scene_time": 1349.097,
+        "yt_scene_time": 378.88
+      },
+      {
+        "got_scene_time": 1359.357,
+        "yt_scene_time": 389.12
+      },
+      {
+        "got_scene_time": 1535.157,
+        "yt_scene_time": 394.24
+      },
+      {
+        "got_scene_time": 1551.173,
+        "yt_scene_time": 409.6
+      },
+      {
+        "got_scene_time": 2637.341,
+        "yt_scene_time": 424.96
+      },
+      {
+        "got_scene_time": 1572.445,
+        "yt_scene_time": 430.08
+      },
+      {
+        "got_scene_time": 1672.002,
+        "yt_scene_time": 465.92
+      },
+      {
+        "got_scene_time": 1684.306,
+        "yt_scene_time": 476.16
+      },
+      {
+        "got_scene_time": 1950.03,
+        "yt_scene_time": 491.52
+      },
+      {
+        "got_scene_time": 1966.463,
+        "yt_scene_time": 501.76
+      },
+      {
+        "got_scene_time": 1968.632,
+        "yt_scene_time": 506.88
+      },
+      {
+        "got_scene_time": 1982.562,
+        "yt_scene_time": 512.0
+      },
+      {
+        "got_scene_time": 1998.161,
+        "yt_scene_time": 527.36
+      },
+      {
+        "got_scene_time": 2018.014,
+        "yt_scene_time": 532.48
+      },
+      {
+        "got_scene_time": 2029.86,
+        "yt_scene_time": 542.72
+      },
+      {
+        "got_scene_time": 2065.812,
+        "yt_scene_time": 558.08
+      },
+      {
+        "got_scene_time": 2096.384,
+        "yt_scene_time": 563.2
+      },
+      {
+        "got_scene_time": 2101.514,
+        "yt_scene_time": 568.32
+      },
+      {
+        "got_scene_time": 2141.179,
+        "yt_scene_time": 578.56
+      },
+      {
+        "got_scene_time": 2146.518,
+        "yt_scene_time": 583.68
+      },
+      {
+        "got_scene_time": 2159.531,
+        "yt_scene_time": 593.92
+      },
+      {
+        "got_scene_time": 2178.591,
+        "yt_scene_time": 614.4
+      },
+      {
+        "got_scene_time": 2184.013,
+        "yt_scene_time": 619.52
+      },
+      {
+        "got_scene_time": 2189.686,
+        "yt_scene_time": 624.64
+      },
+      {
+        "got_scene_time": 2198.57,
+        "yt_scene_time": 634.88
+      },
+      {
+        "got_scene_time": 2234.272,
+        "yt_scene_time": 650.24
+      },
+      {
+        "got_scene_time": 2239.444,
+        "yt_scene_time": 655.36
+      },
+      {
+        "got_scene_time": 2250.538,
+        "yt_scene_time": 665.6
+      },
+      {
+        "got_scene_time": 2266.679,
+        "yt_scene_time": 680.96
+      },
+      {
+        "got_scene_time": 2279.192,
+        "yt_scene_time": 686.08
+      },
+      {
+        "got_scene_time": 2289.661,
+        "yt_scene_time": 696.32
+      },
+      {
+        "got_scene_time": 34.785,
+        "yt_scene_time": 706.56
+      },
+      {
+        "got_scene_time": 2501.622,
+        "yt_scene_time": 721.92
+      },
+      {
+        "got_scene_time": 2506.961,
+        "yt_scene_time": 727.04
+      },
+      {
+        "got_scene_time": 2516.47,
+        "yt_scene_time": 737.28
+      },
+      {
+        "got_scene_time": 2537.116,
+        "yt_scene_time": 752.64
+      },
+      {
+        "got_scene_time": 2543.789,
+        "yt_scene_time": 762.88
+      },
+      {
+        "got_scene_time": 2532.82,
+        "yt_scene_time": 768.0
+      },
+      {
+        "got_scene_time": 2554.8,
+        "yt_scene_time": 773.12
+      },
+      {
+        "got_scene_time": 2561.474,
+        "yt_scene_time": 788.48
+      },
+      {
+        "got_scene_time": 2582.036,
+        "yt_scene_time": 798.72
+      },
+      {
+        "got_scene_time": 1818.273,
+        "yt_scene_time": 829.44
+      },
+      {
+        "got_scene_time": 2714.793,
+        "yt_scene_time": 839.68
+      },
+      {
+        "got_scene_time": 2797.0,
+        "yt_scene_time": 849.92
+      },
+      {
+        "got_scene_time": 2807.928,
+        "yt_scene_time": 860.16
+      },
+      {
+        "got_scene_time": 2813.058,
+        "yt_scene_time": 865.28
+      },
+      {
+        "got_scene_time": 2834.204,
+        "yt_scene_time": 885.76
+      },
+      {
+        "got_scene_time": 2844.965,
+        "yt_scene_time": 896.0
+      },
+      {
+        "got_scene_time": 2871.867,
+        "yt_scene_time": 921.6
+      },
+      {
+        "got_scene_time": 2875.12,
+        "yt_scene_time": 926.72
+      },
+      {
+        "got_scene_time": 2887.174,
+        "yt_scene_time": 936.96
+      },
+      {
+        "got_scene_time": 2905.275,
+        "yt_scene_time": 952.32
+      },
+      {
+        "got_scene_time": 2908.487,
+        "yt_scene_time": 957.44
+      },
+      {
+        "got_scene_time": 3032.193,
+        "yt_scene_time": 967.68
+      },
+      {
+        "got_scene_time": 543.042,
+        "yt_scene_time": 972.8
+      },
+      {
+        "got_scene_time": 3042.454,
+        "yt_scene_time": 977.92
+      },
+      {
+        "got_scene_time": 1794.291,
+        "yt_scene_time": 988.16
+      },
+      {
+        "got_scene_time": 3091.669,
+        "yt_scene_time": 993.28
+      },
+      {
+        "got_scene_time": 3098.051,
+        "yt_scene_time": 998.4
+      },
+      {
+        "got_scene_time": 3104.224,
+        "yt_scene_time": 1003.52
+      },
+      {
+        "got_scene_time": 3109.604,
+        "yt_scene_time": 1008.64
+      },
+      {
+        "got_scene_time": 3114.442,
+        "yt_scene_time": 1013.76
+      },
+      {
+        "got_scene_time": 3021.308,
+        "yt_scene_time": 1024.0
+      },
+      {
+        "got_scene_time": 3146.349,
+        "yt_scene_time": 1044.48
+      },
+      {
+        "got_scene_time": 3188.933,
+        "yt_scene_time": 1054.72
+      },
+      {
+        "got_scene_time": 3199.068,
+        "yt_scene_time": 1064.96
+      },
+      {
+        "got_scene_time": 3213.875,
+        "yt_scene_time": 1075.2
+      },
+      {
+        "got_scene_time": 3219.172,
+        "yt_scene_time": 1080.32
+      },
+      {
+        "got_scene_time": 3336.455,
+        "yt_scene_time": 1085.44
+      }
+    ]
+  }
+}
