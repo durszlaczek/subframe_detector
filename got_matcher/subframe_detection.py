@@ -3,8 +3,6 @@ import math
 import cv2
 import numpy as np
 
-# Ja pierdykam jaki copy-paste
-
 
 def detect_lines(img):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
