@@ -24,6 +24,7 @@ if __name__ == '__main__':
         result[episode] = defaultdict()
 
         for video_id in episode_yt_info:
+            current_time = 0
             if video_id == 4:
                 print('4')
                 continue
@@ -39,10 +40,11 @@ if __name__ == '__main__':
             if got_keyframes:
                 for got_keyframe, frame_id in got_keyframes:
                     scene_time = frame_to_time(got_keyframe, keys, vals)
-                    if scene_time:
+                    if scene_time and scene_time > current_time:
                         # minutes, seconds = seconds_to_time(scene_time)
                         result[episode][video_id].append({'got_scene_time': scene_time,
                                                           'yt_scene_time': frame_id})
+                        current_time = scene_time
                     else:
                         continue
 
